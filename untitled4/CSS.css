@@ -1,0 +1,32 @@
+.card{
+    border-radius: 30px;
+    background-color: rgba(231, 224, 224, 0.7);
+    width: 300px;
+    height: 500px;
+cursor: progress;
+}
+br{height: 30px;}
+img {
+    width: 150px;
+    height: 125px;
+    margin-left: 75px;
+    border-radius: 30px;
+}
+
+.text{
+    color: #363131;
+    font-size: 25px;
+
+}
+.bold{
+    color: black;
+    font-size: 30px;
+}
+
+button{
+    height: auto;
+    width: 150px;
+    margin-left: 75px;
+    background-color: deepskyblue;
+    border-radius: 30px;
+}
